@@ -8,4 +8,4 @@
 ![](https://raw.githubusercontent.com/aizhigit02/Final_project_to_intro2eng/main/4.PNG)
 # In addition there is /help command
 ![](https://raw.githubusercontent.com/aizhigit02/Final_project_to_intro2eng/main/5.PNG)
-# it will show onyl active commands
+# it will show only active commands
